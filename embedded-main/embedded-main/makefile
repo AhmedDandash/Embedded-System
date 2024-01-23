@@ -1,6 +1,6 @@
 #File name: makefile
 #Purpose:   Contains the compiler commands to have the final executable image (.hex)
-#Author:    Ali Saeed
+#Author:    Ahmed Dandash
 #Version:   v1.0
 
 # Include directories
