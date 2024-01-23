@@ -1,6 +1,6 @@
 /**
  * @file    MTIMER_cfg.h
- * @author  Ali Saeed
+ * @author   Ahmed Dandash
  * @brief   This file contains configuration information related to Timer module
  * @version 1.0
  
