@@ -1,6 +1,6 @@
 /**
  * @file    LBIT_MATH.h
- * @author  Ahmed Ashraf (ahmedashrafelnaqeeb@gmail.com)
+ * @author  Ahmed Dandash
  * @brief   This file contatins the bits' mathematics macros 
  * @version 1.0
  * @date    2022-09-10
