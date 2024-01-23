@@ -1,6 +1,6 @@
 /**
  * @file    HGLCD_cfg.h
- * @author  Ali Saeed 
+ * @author  Ahmed Dandash
  * @brief   This file contains configuration information related to LCD module
  * @version 1.0
  
