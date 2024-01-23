@@ -1,6 +1,6 @@
 /**
  * @file    MTIMER_program.c
- * @author  Ali Saeed
+ * @author  Ahmed Dandash
  * @brief   This file contains logical implementation related to Timer module
  * @version 1.0
  * 
