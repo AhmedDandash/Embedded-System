@@ -1,6 +1,6 @@
 /**
  * @file    LSTD_TYPES.h
- * @author  Ahmed Ashraf (ahmedashrafelnaqeeb@gmail.com)
+ * @author  Ahmed Dandash
  * @brief   This file contatins the developed C standatd types
  * @version 1.0
  * @date    2022-09-10
