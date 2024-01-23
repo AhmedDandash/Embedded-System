@@ -1,6 +1,6 @@
 /**
  * @file    MDIO_private.h
- * @author  Ali Saeed
+ * @author   Ahmed Dandash
  * @brief   This file contains private information related to DIO module
  * @version 1.0
  
