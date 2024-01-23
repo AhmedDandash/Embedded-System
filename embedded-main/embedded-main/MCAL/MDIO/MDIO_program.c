@@ -1,6 +1,6 @@
 /**
  * @file    MDIO_program.c
- * @author  ALi Saeed
+ * @author   Ahmed Dandash
  * @brief   This file contains logical implementation related to DIO module
  * @version 1.0
  
