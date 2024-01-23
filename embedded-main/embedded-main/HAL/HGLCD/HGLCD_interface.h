@@ -1,6 +1,6 @@
 /**
  * @file    HGLCD_interface.h
- * @author  Ali Saeed
+ * @author  Ahmed Dandash
  * @brief   This file contains interfacing information related to LCD module
  * @version 1.0
  
