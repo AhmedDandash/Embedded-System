@@ -1,6 +1,6 @@
 /**
  * @file    HGLCD_program.c
- * @author  Ali Saeed
+ * @author  Ahmed Dandash
  * @brief   This file contains logical implementation related to LCD module
  * @version 1.0
 
